@@ -1,0 +1,26 @@
+{
+  "name": "Favoom Token",
+  "symbol": "FAV",
+  "description": "Favoom Token is the official utility token for the Favoom ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://favoom.com/images/favoom.png",
+  "external_url": "https://favoom.com",
+  "attributes": [
+    { "trait_type": "Category", "value": "Utility" },
+    { "trait_type": "Launch Year", "value": "2024" }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "9ETZXxiTKEkAvwcwakdiTPGYeSbdcJEAjg2PbSmXd35i",
+        "share": 1000000000
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://favoom.com/images/favoom.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
